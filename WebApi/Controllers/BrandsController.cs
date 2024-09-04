@@ -17,5 +17,4 @@ public class BrandsController : BaseController
         return Ok(response);
     }
     
-
 }
